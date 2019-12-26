@@ -3,7 +3,7 @@
  <b><h3>File Selection</b></h3> 
 ![header image](https://github.com/omerfbas/Sudoku-solver-with-Multithreading/blob/master/Images/1FileSelection.png)
 
- <b><h3>Example File</b></h3> 
+ <b><h3><u>Example File</u></b></h3> 
 ![header image](https://github.com/omerfbas/Sudoku-solver-with-Multithreading/blob/master/Images/2ExampleFile.png)
 
  <b><h3>The File That Thread 2 Solved</b></h3> 
